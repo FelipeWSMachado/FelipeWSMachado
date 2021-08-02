@@ -1,7 +1,7 @@
 ### Hi there, i'm Felipe Machado 👋
 
 
-- 🔭 I’m currently working with ReactJs and Nodejs
+- 🔭 I’m currently working with ReactJs and NodeJs
 - 🌱 I’m currently learning Flutter and Dart
 - 📫 How to reach me: phelipecwb@gmail.com
 
